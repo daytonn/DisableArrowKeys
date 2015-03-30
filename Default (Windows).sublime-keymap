@@ -1,0 +1,46 @@
+[
+// Disable arrows
+  { "section": "Disable arrows" },
+  { "keys": ["up"], "command": "null" },
+  { "keys": ["down"], "command": "null" },
+  { "keys": ["right"], "command": "null" },
+  { "keys": ["left"], "command": "null" },
+
+  { "keys": ["super+up"], "command": "null" },
+  { "keys": ["super+down"], "command": "null" },
+  { "keys": ["super+right"], "command": "null" },
+  { "keys": ["super+left"], "command": "null" },
+
+  { "keys": ["shift+super+up"], "command": "null" },
+  { "keys": ["shift+super+down"], "command": "null" },
+  { "keys": ["shift+super+left"], "command": "null" },
+  { "keys": ["shift+super+right"], "command": "null" },
+
+  { "keys": ["alt+left"], "command": "null" },
+  { "keys": ["alt+right"], "command": "null" },
+  { "keys": ["alt+up"], "command": "null" },
+  { "keys": ["alt+down"], "command": "null" },
+
+  { "keys": ["shift+alt+left"], "command": "null" },
+  { "keys": ["shift+alt+right"], "command": "null" },
+  { "keys": ["shift+alt+up"], "command": "null" },
+  { "keys": ["shift+alt+down"], "command": "null" },
+
+  { "keys": ["ctrl+up"], "command": "null" },
+  { "keys": ["ctrl+down"], "command": "null" },
+  { "keys": ["ctrl+right"], "command": "null" },
+  { "keys": ["ctrl+left"], "command": "null" },
+
+  { "keys": ["ctrl+super+up"], "command": "null" },
+  { "keys": ["ctrl+super+down"], "command": "null" },
+
+  { "keys": ["ctrl+alt+up"], "command": "null" },
+  { "keys": ["ctrl+alt+down"], "command": "null" },
+  { "keys": ["ctrl+alt+left"], "command": "null" },
+  { "keys": ["ctrl+alt+right"], "command": "null" },
+
+  { "keys": ["shift+ctrl+up"], "command": "null" },
+  { "keys": ["shift+ctrl+down"], "command": "null" },
+  { "keys": ["shift+ctrl+left"], "command": "null" },
+  { "keys": ["shift+ctrl+right"], "command": "null" }
+]

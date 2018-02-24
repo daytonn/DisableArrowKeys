@@ -6,6 +6,11 @@
   { "keys": ["right"], "command": "null" },
   { "keys": ["left"], "command": "null" },
 
+  { "keys": ["shift+up"], "command": "null" },
+  { "keys": ["shift+down"], "command": "null" },
+  { "keys": ["shift+right"], "command": "null" },
+  { "keys": ["shift+left"], "command": "null" },
+
   { "keys": ["super+up"], "command": "null" },
   { "keys": ["super+down"], "command": "null" },
   { "keys": ["super+right"], "command": "null" },
